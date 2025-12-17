@@ -1,0 +1,3 @@
+<template>
+  Copyright text 
+</template>
