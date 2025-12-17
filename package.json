@@ -45,7 +45,7 @@
     "vue3-draggable-next": "^4.1.4",
     "vue3-notification": "^0.0.4",
     "vue3-perfect-scrollbar": "^2.0.0",
-    "vue3-router-tab": "^1.3.9",
+    "vue3-router-tab": "^1.4.0",
     "vuetify": "^3.10.9",
     "webfontloader": "^1.6.28"
   },
